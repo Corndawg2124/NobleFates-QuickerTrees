@@ -1,0 +1,8 @@
+{
+	id Oct.Foliage.OakTree
+	type FoliageType
+	
+	maturationYears = 6
+	lifetimeYears = 36
+	
+}

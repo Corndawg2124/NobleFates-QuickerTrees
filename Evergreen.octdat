@@ -1,0 +1,8 @@
+{
+	id Oct.Foliage.EvergreenTree
+	type FoliageType
+	
+	maturationYears = 6
+	lifetimeYears = 36
+	
+}
